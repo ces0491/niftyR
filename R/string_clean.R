@@ -9,7 +9,7 @@
 #' @return a character vector with all non-standard characters replaced by their standard counterparts
 #' @export
 #'
-#'  @examples
+#' @examples
 #' x <- "91 Cesairé T & co"
 #' string_clean(x)
 #'
